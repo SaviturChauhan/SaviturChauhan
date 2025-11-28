@@ -67,7 +67,7 @@ A robust, commercial-grade MERN application featuring a suite of generative AI t
 - **Architecture**: Developed a scalable full-stack solution using the MERN stack, secured with Clerk for user authentication and subscription management.
 - **Data**: Utilized PostgreSQL for data integrity and Cloudinary for efficient image storage.
 
-🔗 **Repository**: [Check out the Quick.AI repo](#)
+🔗 **Repository**: (https://github.com/SaviturChauhan/Quick.AI)
 
 ---
 
@@ -79,7 +79,7 @@ A specialized Q&A platform for wireless communication, built with modern web sta
 - **Technology**: Full-stack architecture using React, Node.js, Express, and MongoDB, styled with Tailwind CSS.
 - **Security & UX**: Designed a secure authentication system with JWT and Google OAuth. Includes gamified engagement (badges, leaderboard) and real-time notifications.
 
-🔗 **Repository**: [[Check out the Next Comm Q&A repo](#)](https://github.com/SaviturChauhan/NextComm)
+🔗 **Repository**: (https://github.com/SaviturChauhan/NextComm)
 
 ---
 
